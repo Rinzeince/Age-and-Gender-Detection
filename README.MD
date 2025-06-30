@@ -29,5 +29,5 @@ cd your-project-folder
 3. Install all dependencies:
 **pip install -r requirements.txt**
 4. Run the application:
-python main.py
+**python main.py**
 5.  **Press `CTRL + C`** or close the webcam window to exit the program.
