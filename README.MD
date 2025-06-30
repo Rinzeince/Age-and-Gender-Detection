@@ -27,7 +27,7 @@ git clone <https://github.com/Rinzeince/Age-and-Gender-Detection.git>
 cd your-project-folder
 2. Ensure Python **≥ 3.10.9 is installed.**
 3. Install all dependencies:
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 4. Run the application:
 python main.py
 5.  **Press `CTRL + C`** or close the webcam window to exit the program.
