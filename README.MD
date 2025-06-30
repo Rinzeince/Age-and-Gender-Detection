@@ -1,6 +1,7 @@
 # Simple Age and Gender Detection Using OpenCV & Deep Learning
 
 ## Project Structure:
+``` bash
 ├── main.py
 ├── requirements.txt
 ├── models/
@@ -10,6 +11,7 @@
 │   ├── gender_net.caffemodel
 │   ├── opencv_face_detector.pbtxt
 │   └── opencv_face_detector_uint8.pb
+```
 
 ## 📦 Requirements
 
