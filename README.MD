@@ -24,7 +24,7 @@
 # 🚀 How to Run
 1. Clone this repository: 
 git clone <https://github.com/Rinzeince/Age-and-Gender-Detection.git>
-cd your-project-folder
+| cd your-project-folder
 2. Ensure Python **≥ 3.10.9 is installed.**
 3. Install all dependencies:
 **pip install -r requirements.txt**
